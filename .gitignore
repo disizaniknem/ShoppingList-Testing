@@ -12,3 +12,5 @@
 /captures
 .externalNativeBuild
 .cxx
+app/src/main/res/values/secret.xml
+app/src/main/java/com/disizaniknem/shoppinglisttesting/others/Secret.kt
