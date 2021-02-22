@@ -1,7 +1,8 @@
-package com.disizaniknem.shoppinglisttesting
+package com.disizaniknem.shoppinglisttesting.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.disizaniknem.shoppinglisttesting.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
